@@ -1,0 +1,12 @@
+*{
+  background-color: #F1F1F3;
+  margin: 0;
+  border: 0;
+}
+.imagen-encabezado{
+  height: 500px;
+  width: 750px;
+}
+ul{
+  display: inline-flex;
+}
